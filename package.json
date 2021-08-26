@@ -1,0 +1,8 @@
+{
+  "name": "Aulas-JS-Vanila",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel Santos Lima <gabriel.lyma16@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
